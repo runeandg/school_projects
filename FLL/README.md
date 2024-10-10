@@ -1,8 +1,8 @@
 This reposity contains information about how our group solved the Lego project we were given fall of 2024.
 
 ### Learning goals
-Team theory
-Project as a method for work
+Team theory. <br>
+Project as a method for work.
 
 
 ### Reflections
